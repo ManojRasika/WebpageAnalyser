@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 import re
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # Define the function to generate the Google ad
 def generate_ad(url):
