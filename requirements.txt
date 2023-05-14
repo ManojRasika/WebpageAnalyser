@@ -1,5 +1,4 @@
 beautifulsoup4==4.10.0
 openai
-requests google-auth google-auth-oauthlib google-auth-httplib2
 PyPI
 gensim
