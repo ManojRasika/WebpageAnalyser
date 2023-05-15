@@ -59,7 +59,7 @@ def generate_summary(url):
 # Define the main function that will display the app in Streamlit
 def app():
     # Set the title of the app
-    st.title("Webpage Analysis")
+    st.title("Campaign Generator")
 
     # Ask user for the URL
     url = st.text_input("Enter a webpage URL:")
